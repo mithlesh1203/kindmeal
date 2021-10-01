@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="Signin.css">
+
+    <script src="Signin.js"></script>
+</head>
+<body>
+    <div id="signin">
+        <div id="signin-box">
+            <h2>Login</h2>
+            <p><a href="Signup.html">
+                Not registered? register</a></p>
+                <h3 class="name">Email:
+                    <input  id="email"type="text" placeholder="example@gmail.com"></input> 
+                    </h3>
+                <h3 class="name">Passw:
+                    <input  id="password"type="text" placeholder="password"></input> 
+                    </h3>
+                    <button  onclick="logintohome()"id="submit">Login</button>
+                   
+                    <input type="checkbox" id="checkout">Remember me</input>
+                    <p id="ok"></p>
+        </div>
+        <div id="signin-box-2">
+            <h2>Signin with</h2>
+            <a href="https://www.facebook.com/"><img src="https://www.printvenue.com/bundles/rocketfrontend/images/icon-facebook.jpg"></img></a>
+            <a href="https://accounts.google.com/signin/v2/identifier?service=accountsettings&continue=https%3A%2F%2Fmyaccount.google.com%2F%3Futm_source%3Dsign_in_no_continue%26pli%3D1&ec=GAlAwAE&flowName=GlifWebSignIn&flowEntry=AddSession"><img src="https://www.printvenue.com/bundles/rocketfrontend/images/google-login-button.jpg"></img></a>
+            <p>Skip the form by signing in with your Facebook or Google account.</p>
+        </div>
+    </div>
+</body>
+</html>

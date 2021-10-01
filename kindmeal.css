@@ -1,0 +1,422 @@
+a{
+    
+    text-decoration: none;
+    
+}
+#top-box{
+    width:1500px;
+    background-color:#F5F5F5;
+    
+    
+}
+.top-box-grid{    
+    margin:auto;
+    width:75%;    
+    display: grid;    
+    grid-template-columns: 500px 300px 300px;    
+
+}
+.center{
+    text-align: center;
+}
+
+.img-b-1{
+    width: 380px;
+}
+.img-b-2{
+    width: 40px;
+    margin: 10px 10px;
+}
+.top-box-grid-2{
+    
+    margin-top: 20px;
+    display: grid;    
+    gap: 7px;
+    grid-template-columns: 50px 50px 50px;
+    
+
+}
+.top-box-grid-3{
+    margin-top: 38px;
+    display: grid;
+    text-align:center;
+    gap: 5px;
+    grid-template-columns: 50px 70px 70px 0px 50px;
+    
+
+}
+
+.top-box-3-bc-2{
+    background-color: #A3A3A3;
+    color: white;
+    font-size: 14px;
+    border-radius:5px;
+    padding:4px;
+}
+.top-box-3-bc-1{
+    background-color: #4338CA;
+    color: white;
+    font-size: 14px;
+    border-radius:5px;
+    padding:4px;
+}
+.top-box-3-b{
+    border: 1px solid black;
+    background-color:black;
+    height: 16px;
+}
+
+
+
+#box-2-bc{
+
+background-color: #10B981;
+height: 50px;
+}
+
+.box-2-grid{
+width: 75%;
+margin:auto ;
+display: grid;  
+ gap:3px;
+grid-template-columns: 8% 13% 16% 11.5% 10% 11% 9% 15% 5%;
+}
+
+.box-2-text-color{
+    color:white;
+    font-size: 25px; 
+    margin-top:10px;
+}
+
+
+
+
+
+.box-3{
+    background-color:white;
+    width: 75%;
+    margin: auto;
+    border:2px solid #D1D5DB;
+}
+.box-3-1{
+    background-image: url("https://www.kindmeal.my/photos/deal/2/210-338-m.jpg");
+    display: inline-block;
+    width: 70%;
+    height:400px;
+   
+}
+.box-3-2{
+    background-image: url("https://www.kindmeal.my/photos/shop/1/163-437-m.jpg");
+    display: inline-block;
+    margin-left: 0px;
+    width: 29.5%;
+    height:400px;
+    
+    
+}
+.box-3-botam-img{
+    
+    display: inline-block;
+    margin: auto;
+    width: 11.8%;
+    padding:12px;
+}
+.box-3-botam-imgSize{
+    border: 1px solid #D1D5DB;
+    width: 100%;
+}
+
+
+
+
+#box-4{
+    
+    width: 1500px;
+    margin-top: 30px;
+    
+
+}
+.box-4-L{
+    background-color:white;
+    width:75%;
+    margin: auto ;
+    border: 1px solid #E5E5E5;
+    margin-top: 35px;
+   
+}
+.box-4-L-1{
+    
+    margin-left: 15px;
+     display: grid;  
+    gap:3px;
+    font-size: 23px;
+    grid-template-columns: 25% 14% 23% 17% 24%;
+    
+}
+
+.box-4-L-1-textColor-1{
+    color: blue;
+    
+}
+.box-4-L-1-textColor-2{
+    color: #525252;
+    
+}
+
+
+.box-4-L-2{
+    margin:0px 15px 0px 15px;
+    gap: 15px;
+    align-items: top;   
+    display: grid;  
+
+    grid-template-columns: 19% 19% 19% 19% 19%;
+    
+}
+
+.box-4-L-2-img-w{
+    height:220px;
+    padding: 1px;
+    border: 0.2px solid #D1D5DB; 
+    width:99%;
+    border-radius: 5px;
+}
+.box-4-L-2-text-1{
+    margin-top:0px;
+    font-size:15px;
+    text-align: center;
+}
+
+.box-5-L-1{
+    
+    margin-left: 15px;
+     display: grid;  
+    gap:3px;
+    font-size: 23px;
+    grid-template-columns: 25% 25% 15% 18% 24%;
+    
+}
+
+.box-6-L-1{
+    
+    margin-left: 15px;
+     display: grid;  
+    gap:3px;
+    font-size: 23px;
+    grid-template-columns: 25% 25% 20% 18% 15%;
+    
+}
+
+.box-7-L-1{
+    
+    margin-left: 15px;
+     display: grid;  
+    gap:3px;
+    font-size: 23px;
+    grid-template-columns: 25% 29% 13% 21% 15%;
+    
+}
+
+
+
+
+
+
+
+
+
+
+.b-3-bc{
+    background-color:white;
+    padding-top:20px;
+}
+.b-3-L{
+    width:1000px;
+    margin: auto;
+    padding-top:40px;
+    color: #737373;
+    font-size: 42px;
+    padding-bottom:10px;
+    
+    }
+.b-3-L1{
+width:530px;
+margin: auto;
+}
+.b-3-L2{
+    display: inline-block;
+    text-align: center;
+    margin:auto;
+    vertical-align: middle;
+}
+
+.b-3-L2-w1{
+width: 170px;
+font-size: 23px;
+color: #A1A1AA;
+
+}
+.b-3-L2-w2{
+    width: 350px;
+}
+.b-3-L2-img1{
+    width: 270px;
+    
+}
+.b-3-L-2{
+    width:850px;
+    margin: auto;
+    padding-top:40px;
+    color: #737373;
+    font-size: 28px;
+    padding-bottom:40px;
+    
+}
+.b-3-L-3{
+    width: 1100px;
+    margin: auto;
+   
+}
+.b-3-L-3-box{
+    display: inline-block;
+    vertical-align: top;
+    border:1px solid #D1D5DB;
+    width: 23%;
+    margin: 0.7%;
+    text-align: center;
+    border-radius:5px;
+    height: 240px;
+}
+.b-3-L-3-img{
+    padding:15px;
+}
+.b-3-L-3-textSize{
+    font-size: 22px;
+    margin: 10px;
+    color:#57534E;
+}
+.b-3-L-3-textSize-1{
+    font-size: 15px;
+    margin: 5px;
+    color:#71717A;
+    
+}
+
+.b-3-L-4{
+    width:95%;
+    margin: auto;
+    text-align: center;
+    font-size: 22px;
+    padding-top: 70px;
+    padding-bottom:50px;
+    color:#71717A;
+    
+}
+.b-3-L-5{
+    width:43%;
+    background-color:#EF4444;
+    margin:auto;
+    height:100px;
+    border-radius: 10px;
+    
+}
+.b-3-L-5-text{
+    color: white;
+    
+    padding-top:0.2px;
+}
+.b-3-L-5-textSize{
+    font-size:40px;
+    margin-bottom: 0px;
+    padding-top:12px;
+    text-align: center;
+}
+.b-3-L-5-textSize-1{
+    text-align: center;
+    margin-top: 0px;
+}
+.b-3-L-6{
+    width: 30%;
+    margin: auto;
+    text-align: center;
+    padding-top: 70px;
+    font-size:30px;
+    color: #71717A;
+}
+
+.b-3-L-7{
+    padding-bottom: 30px;
+}
+
+
+.b-3-L-8{
+    width: 1500px;
+  background-color: #E5E5E5;
+  margin: auto;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#botom-background-color{
+    width: 1500px;
+    background-color:#10B981;
+    height: 450px;
+}
+.bottom-box{
+    display: grid;
+    grid-template-columns: 22% 13% 13% 13% 13% 13% 11%;
+}
+.margin-top{
+    padding-top: 30px;
+    
+}
+.margin{
+    margin: 5px;
+    
+}
+.bottom-color{
+    color:white;
+}
+.bottom-line{
+    width: 59%;
+    font-size: 13px;
+    text-align: center;
+    margin:auto;
+    color:white;
+    
+}

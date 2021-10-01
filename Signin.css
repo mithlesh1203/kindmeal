@@ -1,0 +1,43 @@
+
+#signin{
+    width: 600px;
+    height: 300px;
+    border: 1px solid #991B1B;
+    margin:auto;
+    margin-top: 150px;
+    border-radius: 10px;
+    
+}
+a{
+    text-decoration: none;
+}
+#signin-box{
+    color: black;
+    margin-left: 20px;
+}
+.name{
+    
+    margin-left: 20px;
+}
+#email{
+    margin-left: 30px;
+}
+#password{
+    margin-left: 30px;
+}
+#submit{
+    width: 100px ;
+    height: 30px;
+    border-radius:40px;
+    background-color:blue;
+    color: white;
+    font-size: large;
+    margin-left:100px;
+    margin-top:10px;
+}
+#signin-box-2{
+     margin-left:370px;
+     margin-top: -220px;
+     color: blue;
+     padding: 10px;
+}

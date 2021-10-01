@@ -1,0 +1,32 @@
+
+#botom-background-color{
+    width: 1500px;
+    background-color:#10B981;
+    height: 450px;
+    
+    
+}
+.bottom-box{
+    display: grid;
+    grid-template-columns: 22% 13% 13% 13% 13% 13% 11%;
+    
+}
+.margin-top{
+    padding-top: 30px;
+    
+}
+.margin{
+    margin: 5px;
+    
+}
+.bottom-color{
+    color:white;
+}
+.bottom-line{
+    width: 59%;
+    font-size: 13px;
+    text-align: center;
+    margin:auto;
+    color:white;
+    
+}

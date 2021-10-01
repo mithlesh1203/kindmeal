@@ -1,0 +1,228 @@
+a{
+    
+    text-decoration: none;
+    
+}
+#top-box{
+    width:1500px;
+    background-color:#F5F5F5;
+    
+    
+}
+.top-box-grid{    
+    margin:auto;
+    width:75%;    
+    display: grid;    
+    grid-template-columns: 500px 300px 300px;    
+
+}
+.center{
+    text-align: center;
+}
+
+.img-b-1{
+    width: 380px;
+}
+.img-b-2{
+    width: 40px;
+    margin: 10px 10px;
+}
+.top-box-grid-2{
+    
+    margin-top: 20px;
+    display: grid;    
+    gap: 7px;
+    grid-template-columns: 50px 50px 50px;
+    
+
+}
+.top-box-grid-3{
+    margin-top: 38px;
+    display: grid;
+    text-align:center;
+    gap: 5px;
+    grid-template-columns: 50px 70px 70px 0px 50px;
+    
+
+}
+
+.top-box-3-bc-2{
+    background-color: #A3A3A3;
+    color: white;
+    font-size: 14px;
+    border-radius:5px;
+    padding:4px;
+}
+.top-box-3-bc-1{
+    background-color: #4338CA;
+    color: white;
+    font-size: 14px;
+    border-radius:5px;
+    padding:4px;
+}
+.top-box-3-b{
+    border: 1px solid black;
+    background-color:black;
+    height: 16px;
+}
+
+
+
+#box-2-bc{
+
+background-color: #10B981;
+height: 50px;
+}
+
+.box-2-grid{
+width: 75%;
+margin:auto ;
+display: grid;  
+ gap:3px;
+grid-template-columns: 8% 13% 16% 11.5% 10% 11% 9% 15% 5%;
+}
+
+.box-2-text-color{
+    color:white;
+    font-size: 25px; 
+    margin-top:10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#help{
+    background-color:#E5E5E5;
+}
+.help-grid{
+    
+    padding-top:30px;
+    padding-bottom:30px;
+    display: grid;
+    grid-template-columns:15% 20% 50% 15%;
+}
+
+.help-grid-box-2{
+    display: grid;
+    grid-template-rows: 300px;
+    
+
+}
+.help-grid-box-2-size{
+    border: 1px solid #D1D5DB;
+    border-radius:10px;
+    margin-bottom:30px;
+    height: 270px;
+    background-color:white;
+}
+.help-grid-box-2-img{
+    text-align: center;
+    padding:8px;
+    margin-bottom: 30px;
+   
+}
+.help-grid-box-2-text{
+    text-align: center;
+    font-size:20px;
+    color: #57534E;
+    
+   
+}
+
+
+.help-grid-box-3{
+   background-color: white;
+   padding: 30px;
+   margin: 0px 20px 20px 20px;
+
+}
+.help-grid-box-3-text-1{
+    font-size:17px;
+   
+ }
+ .help-grid-box-3-text-2{
+    font-size:17px;
+   
+ }
+ .help-grid-box-3-border{
+     margin:50px 0px 50px 0px;
+     border-top: 1px solid #D4D4D4;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#botom-background-color{
+    width: 1500px;
+    background-color:#10B981;
+    height: 450px;
+}
+.bottom-box{
+    display: grid;
+    grid-template-columns: 22% 13% 13% 13% 13% 13% 11%;
+}
+.margin-top{
+    padding-top: 30px;
+    
+}
+.margin{
+    margin: 5px;
+    
+}
+.bottom-color{
+    color:white;
+}
+.bottom-line{
+    width: 59%;
+    font-size: 13px;
+    text-align: center;
+    margin:auto;
+    color:white;
+    
+}

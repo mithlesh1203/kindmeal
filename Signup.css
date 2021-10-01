@@ -1,0 +1,20 @@
+body{
+    background-color: #F4F4F5;
+}
+#signup-box{
+    background-color:#DCFCE7;
+    width: 400px;
+    height: 500px;
+    border-radius:200px;
+    border: 1px solid black;
+    margin: auto;
+    padding-top: 100px;
+    padding-left: 90px;
+    color: rgb(228, 82, 82);
+    font-size:20px;
+    
+}
+
+.signup-box-2{
+    background-color:green;
+}

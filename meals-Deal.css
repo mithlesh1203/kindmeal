@@ -1,0 +1,293 @@
+a{
+    
+    text-decoration: none;
+    
+}
+#top-box{
+    width:1500px;
+    background-color:#F5F5F5;
+    
+    
+}
+.top-box-grid{    
+    margin:auto;
+    width:75%;    
+    display: grid;    
+    grid-template-columns: 500px 300px 300px;    
+
+}
+.center{
+    text-align: center;
+}
+
+.img-b-1{
+    width: 380px;
+}
+.img-b-2{
+    width: 40px;
+    margin: 10px 10px;
+}
+.top-box-grid-2{
+    
+    margin-top: 20px;
+    display: grid;    
+    gap: 7px;
+    grid-template-columns: 50px 50px 50px;
+    
+
+}
+.top-box-grid-3{
+    margin-top: 38px;
+    display: grid;
+    text-align:center;
+    gap: 5px;
+    grid-template-columns: 50px 70px 70px 0px 50px;
+    
+
+}
+
+.top-box-3-bc-2{
+    background-color: #A3A3A3;
+    color: white;
+    font-size: 14px;
+    border-radius:5px;
+    padding:4px;
+}
+.top-box-3-bc-1{
+    background-color: #4338CA;
+    color: white;
+    font-size: 14px;
+    border-radius:5px;
+    padding:4px;
+}
+.top-box-3-b{
+    border: 1px solid black;
+    background-color:black;
+    height: 16px;
+}
+
+
+
+#box-2-bc{
+
+background-color: #10B981;
+height: 50px;
+}
+
+.box-2-grid{
+width: 75%;
+margin:auto ;
+display: grid;  
+ gap:3px;
+grid-template-columns: 8% 13% 16% 11.5% 10% 11% 9% 15% 5%;
+}
+
+.box-2-text-color{
+    color:white;
+    font-size: 25px; 
+    margin-top:10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#meal{
+    width:75%;
+    margin: auto;
+
+}
+
+
+.meal-box-1{
+    display: grid;
+    grid-template-columns: 22% 1% 53% 9% 9% 0%;
+    align-items: center;
+}
+.meal-box-1-border{
+    border: .1px solid black;
+    width:.1px;
+    height:30px;
+
+}
+.meal-twiter{
+    width:65px;
+    height:15px;
+    background-color:blue;
+    border: .1px solid black;
+    text-align: center;
+    border-radius:5px;
+    
+}
+.meal-color{
+    color: white;
+    
+}
+.meal-search{
+    display: grid;
+    grid-template-columns: 29% 18% 18% 19% 0%;
+    align-items: center;
+}
+.meal-s-with{
+    width:280px;
+    height: 40px;
+    border-radius: 5px;
+    font-size:20px;
+    padding-left:15px;
+    border: 1px solid #D4D4D4;
+}
+.meal-s-with-1{
+    width:180px;
+    height: 40px;
+    border-radius: 5px;
+    font-size:20px;
+    color: #57534E;
+    border: 1px solid #D4D4D4;
+    
+}
+.meal-s-with-2{
+    width:180px;
+    height: 40px;
+    border-radius: 5px;
+    font-size:20px;
+    padding-left:15px;
+    border: 1px solid #D4D4D4;
+    background-color:red;
+    text-align:center;
+    color: white;
+    padding-top:15px;
+}
+.meal-box-2{
+    width:75%;
+    background-color:#F5F5F5;
+    margin: auto;
+}
+.meal-box-2-img{
+    width:100%;
+    border: 1px solid #D4D4D4;
+}
+.meal-box-2-r{
+    display: grid;
+    grid-template-rows:600px 600px 600px 600px 600px 600px;
+    align-items: center;
+    
+    gap: 15px;
+    
+}
+.meal-box-2-c{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    align-items: center;
+    padding: 20px;
+    
+}
+.meal-box-2-size{
+    width: 500px;
+    height: 550px;
+    border-radius: 10px;
+    border: 1px solid #D6D3D1;
+    background-color:white;
+}
+.meal-box-2-img-size{
+    width: 100%;
+    height: 350px;
+    border-radius: 10px;
+    
+}
+.meal-box-2-img-size-bottom{
+    width: 90%;
+    margin: auto;
+    
+}
+.meal-box-2-img-size-bottom-1{
+    width: 200px;
+    height: 40px;
+    padding:10px;
+    text-align: center;
+    align-items: center;
+    border-radius: 10px;
+    background-color: red;
+    font-size:25px;
+    
+    
+}
+
+
+
+
+
+.b-3-L-8{
+    width: 1500px;
+  background-color: #E5E5E5;
+  margin: auto;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#botom-background-color{
+    width: 1500px;
+    background-color:#10B981;
+    height: 450px;
+}
+.bottom-box{
+    display: grid;
+    grid-template-columns: 22% 13% 13% 13% 13% 13% 11%;
+}
+.margin-top{
+    padding-top: 30px;
+    
+}
+.margin{
+    margin: 5px;
+    
+}
+.bottom-color{
+    color:white;
+}
+.bottom-line{
+    width: 59%;
+    font-size: 13px;
+    text-align: center;
+    margin:auto;
+    color:white;
+    
+}
