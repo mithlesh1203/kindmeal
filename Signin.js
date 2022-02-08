@@ -7,7 +7,7 @@ function logintohome(){
     if(emailtext!="" && password!=""){
     localStorage.setItem("emailid",email)
     localStorage.setItem("passwords",password)
-    window.location.href="kindmeal.html"
+    window.location.href="index.html"
     }
     if(password==""){
        
